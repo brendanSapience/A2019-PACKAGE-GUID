@@ -1,0 +1,10 @@
+{
+  "name": "GUID Tools",
+  "label": "GUID Tools",
+  "description": "Provides GUID Actions.",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "commands": []
+}

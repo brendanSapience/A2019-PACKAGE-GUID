@@ -16,6 +16,7 @@ public class GetGUIDVariantTest {
 
         return new Object[][]{
                 {"b4aed071-9ec6-42e7-b724-76fa0d33c71e","2"}
+
         };
     }
 

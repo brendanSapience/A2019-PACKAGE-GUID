@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.automationanywhere.botcommand.demo.GetGUIDVariantTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-04T22:16:44" hostname="EC2AMAZ-4PFQG1I" time="0.002">
+  <properties/>
+  <testcase name="aTests[0](b4aed071-9ec6-42e7-b724-76fa0d33c71e, 2)" classname="com.automationanywhere.botcommand.demo.GetGUIDVariantTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
